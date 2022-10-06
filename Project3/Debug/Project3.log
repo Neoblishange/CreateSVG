@@ -1,2 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (Project3.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
-  Project3.vcxproj -> C:\Users\FLO\source\repos\FigureSVG\Debug\FigureSVG.exe

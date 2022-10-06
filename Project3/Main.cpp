@@ -34,6 +34,6 @@ int main() {
 	c1.SetColorFill(80,0,0);
 	rec1.SetColorFill(150, 150, 150);
 
-	ed.ExportSVG("a.svg");
+	ed.ExportSVG("figures.svg");
 	return 0;
 }
